@@ -1,0 +1,78 @@
+packages/fragno-db/src/fragments/internal-fragment.ts
+  s_93bb70a284be64::t_2329ce554a5c5d 31
+  s_93bb70a284be64::t_885cc8a835f53c 79
+packages/fragno-db/src/query/unit-of-work/logical-lock-keys.ts
+  s_93bb70a284be64::t_4638782bbcddec 25,47-50,106-108,143-145,190
+  s_93bb70a284be64::t_e1524206674ee3 1-5,7-24,26-46,51-105,109-142,146-189,191-201,208-210,212-222
+  s_93bb70a284be64::t_027b655d4f8777 202-207
+  s_93bb70a284be64::t_80e48b68731b1a 211
+  s_93bb70a284be64::t_6b734c838d6797 6
+packages/fragno-db/src/fragments/internal-fragment.schema.ts
+  s_93bb70a284be64::t_48120b83c69295 9-10
+  s_93bb70a284be64::t_fd5eb57b0f517b 92-103
+  s_93bb70a284be64::t_2f32c62a42e762 8
+packages/fragno-db/src/adapters/generic-sql/generic-sql-uow-executor.test.ts
+  s_93bb70a284be64::t_4638782bbcddec 98-100
+  s_93bb70a284be64::t_57373102c6ecf7 104-109
+  s_93bb70a284be64::t_ecfc63890afa8d 51-55
+packages/fragno-db/src/adapters/generic-sql/generic-sql-uow-executor.ts
+  s_93bb70a284be64::t_4638782bbcddec 26
+  s_93bb70a284be64::t_d036b5d4362f34 1-2
+  s_93bb70a284be64::t_daafbea64403f9 81-84,95-96,99-105,116
+  s_93bb70a284be64::t_cf4b317cf12cc4 9
+  s_93bb70a284be64::t_6631123eebf8c9 193-199,203-204
+  s_93bb70a284be64::t_7a2dffb09a9715 200,202
+  s_93bb70a284be64::t_cbfb60971b3c69 201
+  s_93bb70a284be64::t_70f0e673073f73 78-79
+  s_93bb70a284be64::t_0ac0090eaa3f74 90,92,110-112,121-131,133-139
+  s_93bb70a284be64::t_4d9c96fa9e895d 326,328-329
+  s_93bb70a284be64::t_145b8766dc0ba6 327
+  s_93bb70a284be64::t_6ecb2f6ec51652 77,80,85-89,91,93-94,97-98,106-109,113-115,117-120,132,140-151
+packages/fragno-db/src/adapters/generic-sql/driver-config.ts
+  s_93bb70a284be64::t_a0efa828f0667e 115
+  s_93bb70a284be64::t_f14b5a99c29f4a 172-187
+  s_93bb70a284be64::t_acc9ed26141bf8 171
+packages/fragno-db/src/adapters/drizzle/migrate-drizzle.test.ts
+  s_93bb70a284be64::t_c499e861ed5359 149,172,177,195-204,294-295
+packages/fragno-db/src/query/unit-of-work/unit-of-work.test.ts
+  s_93bb70a284be64::t_4988bf4cf1dbc9 1427-1428
+  s_93bb70a284be64::t_dd19f15b6d2992 8
+  s_93bb70a284be64::t_fa66f0c0e504d4 1426
+packages/fragno-db/src/adapters/in-memory/in-memory-uow.ts
+  s_93bb70a284be64::t_8f05775a16bfc7 95-128
+  s_93bb70a284be64::t_a0d236b671fdf9 31
+  s_93bb70a284be64::t_d37abac385b82c 1343-1352
+  s_93bb70a284be64::t_0936a6016619e8 1569,1576
+  s_93bb70a284be64::t_ee901a9642950d 94
+packages/fragno-db/src/query/unit-of-work/logical-lock-keys.test.ts
+  s_93bb70a284be64::t_4638782bbcddec 5
+  s_93bb70a284be64::t_7fbd386c17912b 1-4,6-95
+packages/fragno-db/src/adapters/test-suite/query-engine-suite.ts
+  s_93bb70a284be64::t_73563697155420 318-320,324-325,328-330,333-336,339-341,344-349,351-352,354-355,357-361,363,365-369
+  s_93bb70a284be64::t_c1bf453aabab96 321-323,326-327,331-332,337-338,342-343,353,356,362
+  s_93bb70a284be64::t_92b66bc6db2a65 350,364
+packages/fragno-db/src/schema-output/prisma.test.ts
+  s_93bb70a284be64::t_91293eb8ced622 187-198,351-362,520-530
+  s_93bb70a284be64::t_9348ef02128976 531
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "23040921e0ef8195a36d0b0ca45f7276f2be4a3e",
+  "prompts": {},
+  "humans": {
+    "h_bf19f0f446d5d8": {
+      "author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_93bb70a284be64": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f03546a68ffe7pGd0aOtUhHQi7",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  }
+}
