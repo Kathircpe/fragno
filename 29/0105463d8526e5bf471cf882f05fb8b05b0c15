@@ -1,0 +1,28 @@
+packages/fragno-db/src/adapters/generic-sql/generic-sql-uow-executor.ts
+  s_93bb70a284be64::t_725e07d0b43beb 88,95-98,116,120
+  s_93bb70a284be64::t_9508dd62cd7ed0 117-119,212-218
+  s_93bb70a284be64::t_017e7343c7a256 145
+packages/fragno-db/src/adapters/generic-sql/generic-sql-uow-executor.test.ts
+  s_93bb70a284be64::t_c97a2a4c202235 51,53,105,107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "290105463d8526e5bf471cf882f05fb8b05b0c15",
+  "prompts": {},
+  "humans": {
+    "h_bf19f0f446d5d8": {
+      "author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_93bb70a284be64": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f03546a68ffe7pGd0aOtUhHQi7",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  }
+}
