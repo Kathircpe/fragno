@@ -1,0 +1,521 @@
+apps/backoffice/app/routes/backoffice/sessions/sessions.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 3-12,16-33,35-37,39
+apps/backoffice/content/static/codemode/providers/connector.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-158
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/pi.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,6-13
+packages/project-connector-fragment/src/client/svelte.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-9
+apps/backoffice/app/routes/backoffice/sessions/data.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,8-14,17-18,20-26,28-45,49,52-54,56-62,64,67,72-73,75,79,81-98,100,104-107,110-117,120-121,124-130,132-134,137-168,171-172,176-191,193-206,209,212-213,215,218,223-228,231,234-235,237-238,240-261,263,266,270-278,282,285-286,288-291,293-311,314,319-324,327-331,333-334,336-349,351-352,354-357,359-376
+apps/backoffice/content/marketplace/telegram-channel/versions/1.0.1/automations/telegram-user-pi-linking.workflow.js
+  s_2d2e17e7cb2575::t_e67b9108c34956 6,37,41-46,58,60,69,75,104,106-107
+apps/backoffice/app/fragno/runtime-tools/bash-cli.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 403-411
+apps/backoffice/workers/vitest-env.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5,7-41
+apps/backoffice/app/fragno/auth/backoffice-principal.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 9,83
+apps/backoffice/app/backoffice-runtime/cloudflare-durable-object-factory.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 59-65
+apps/backoffice/app/fragno/pi/pi-runtime-context.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-29
+apps/backoffice/app/fragno/billing/schema.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 21
+apps/backoffice/app/fragno/runtime-tools/families/project-connector-runtime.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-113
+apps/backoffice/app/routes/backoffice/sessions/organization-layout.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3,5,17,23-26,91-92,96-97,115-118
+packages/codemode/src/transport/codemode-errors.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 14-39,54,60,63-64,66-67,69-70,72-73,76
+apps/backoffice/app/routes/api/scoped-workflows.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-51
+apps/backoffice/app/routes/backoffice/sessions/session-detail/workspace-projection.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3-9,23-24,53-54,193-194
+apps/backoffice/app/backoffice-runtime/cloudflare-durable-object-factory.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5,30-32,75
+apps/backoffice/app/fragno/codemode/remote-execution-host.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 26
+apps/backoffice/app/fragno/runtime-tools/families/automations-routing.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 13,149,161
+packages/project-connector-fragment/src/cli/cli.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-312
+apps/backoffice/app/routes/backoffice/sessions/session-detail/assistant-runtime.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3-7,31-94,96-99,101-120,122-132,135-154,359-361,418-420,458,470,482
+apps/backoffice/app/fragno/runtime-tools/families/automations.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 228
+apps/backoffice/workers/api.do.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,42,71
+apps/backoffice/wrangler.vitest.jsonc
+  s_2d2e17e7cb2575::t_e67b9108c34956 17,38-49,61-68
+apps/backoffice/app/routes/api/mcp-oauth-start.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 16,25
+packages/codemode/src/transport/codemode-node-client.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-75
+apps/backoffice/app/fragno/runtime-tools/families/project-connector.scenario.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-418
+packages/project-connector-fragment/src/testing/project-connector-test-gateway.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-323
+apps/backoffice/app/routes/backoffice/sessions/session-export.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-17
+apps/backoffice/content/static/skills/configuring-integrations/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-97
+apps/backoffice/app/routes/api/project-connector-route.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-58
+packages/project-connector-fragment/src/client/vanilla.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-9
+apps/backoffice/app/routes/api/api-oauth-start.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 16,23
+apps/backoffice/app/backoffice-runtime/kernel.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 18-21,52-59,61-65,78-92,103-122,506
+apps/backoffice/app/routes/backoffice/sessions/session-detail.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 2,10,13-14,16-21,23-31,35-36,39,57,60-61,63-67,69-90,93-101,103-105,107-114,116-117,119-136,139-145,148-150,165-175,177-206,208,211-220,223-233,236-264,266-269,271-296,300-337,339,341,344,346-347,350-353,355-358,360-362,364-383,387,389,392,394-400,402-403,406,412,416,418,425,428,435,439,442-443,459,462-465,468-471,477,483-484,497-499,503-507,509-538,540-544,546-564,572,575-576,589,592,595,597,599,606,608-619,621-622,630-631
+apps/backoffice/app/fragno/automation/workflow-route-runtime.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 8-12,32-89,91
+apps/backoffice/app/fragno/runtime-tools/reference.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 188,191-192,203,213-243,246,249-253,394-402
+  s_2d2e17e7cb2575::t_155acb53f6cc13 403
+apps/backoffice/app/routes/backoffice/connections/project-connector-return.scenario.test.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-136
+apps/backoffice/workers/lib/pi-durable-authorized-models.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-56
+apps/backoffice/content/static/skills/mcp-connection/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 3-6,9,11-17
+apps/backoffice/workers/lib/pi-durable-harness-options.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-26
+packages/project-connector-fragment/src/cli/authorization-browser.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-13
+apps/backoffice/app/routes/backoffice/internals/durable-hooks-scope.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 7-9,114,121,304,306
+  s_2d2e17e7cb2575::t_2546bdcabb1105 6
+apps/backoffice/app/routes/backoffice/sessions/session-view-stream.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-17
+apps/backoffice/app/routes.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 14-17,243-246,248-249,251,312
+apps/backoffice/content/static/codemode/providers/hooks.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4
+apps/backoffice/content/static/skills/reson8-integration/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-38
+packages/codemode/src/worker/codemode-guest-source.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 55-64,95,106,127
+.changeset/project-connector-fragment.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-5
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/reson8.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 85
+apps/backoffice/workers/objects.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 15-17,45,47-48
+apps/backoffice/app/layouts/backoffice-shell-request.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 12,112
+apps/backoffice/app/backoffice-runtime/backoffice-runtime-env.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 23-24
+apps/backoffice/content/static/skills/building-automations/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 27,32
+apps/backoffice/app/fragno/runtime-tools/tool-families.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 2,37-39,68,70,80,99,126
+apps/backoffice/app/routes/backoffice/sessions/session-detail/tool-call.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 8,165
+packages/codemode/src/worker/codemode-worker-session.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 143
+apps/backoffice/app/fragno/runtime-tools/families/project-connector-scenario.test-utils.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-41
+apps/backoffice/app/fragno/automation/workflow-route-runtime.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 7-10,13-16,83-117
+  s_2d2e17e7cb2575::t_77e4f90d5df00b 118-119
+apps/backoffice/app/fragno/codemode/runtime-api.cloudflare.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,3-24
+apps/backoffice/app/fragno/runtime-tools/runtime-tools.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 13,15,246,251-254,272,309,345
+apps/backoffice/app/routes/api/api-route.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 27
+apps/backoffice/content/static/skills/upload-integration/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-41
+apps/backoffice/package.json
+  s_2d2e17e7cb2575::t_e67b9108c34956 50-52,62
+packages/project-connector-fragment/tsconfig.json
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-10
+apps/backoffice/content/static/codemode/providers/forms.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4
+apps/backoffice/app/fragno/runtime-tools/route-backed-runtime-context.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5-6,37-40,55,71-75,85-88,150-160,319-322,342-344,368-370,392-417,437-438,441-446,449-454,497
+apps/backoffice/app/routes/backoffice/sessions/organization-layout.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 14,16,31-36,48,61,78
+apps/backoffice/app/backoffice-runtime/runtime-services.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 48,159
+apps/backoffice/content/static/skills/generating-backoffice-uis/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 99
+apps/backoffice/app/backoffice-runtime/internal-object-request.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 29,58,64-86,111,132
+packages/project-connector-fragment/src/cli/cli.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-181
+apps/backoffice/app/routes/backoffice/automations/identity-bindings.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 8,61
+apps/backoffice/app/backoffice-runtime/permissions.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 69-74,129-130
+  s_2d2e17e7cb2575::t_918bdfda8edc1e 131
+apps/backoffice/app/backoffice-runtime/authority-roles.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 31,56
+apps/backoffice/app/fragno/pi-manager/pi-manager-fragment.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-651
+apps/backoffice/app/fragno/pi-manager/pi-manager-runtime.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-286
+apps/backoffice/app/fragno/runtime-tools/families/mcp.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5,336,348
+apps/backoffice/app/fragno/runtime-tools/families/otp-runtime.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 55,99
+apps/backoffice/scripts/node-server/node-server.mts
+  s_2d2e17e7cb2575::t_e67b9108c34956 11,39-41,110,132-137,139-141,146
+apps/backoffice/content/static/skills/sandbox/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 19
+apps/backoffice/app/routes/backoffice/internals/durable-hooks-scope.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 121,148
+apps/backoffice/app/routes/backoffice/sessions/shared.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 5,12
+apps/backoffice/app/fragno/codemode/run-backoffice-codemode.cloudflare.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 961
+packages-private/vitest-config/src/index.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4
+apps/backoffice/app/backoffice-runtime/internal-object-request.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 31,42-49,54,199,273
+packages/codemode/src/worker/workflow-source.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 12,33,102,106
+apps/backoffice/app/routes/api/project-connector.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-22
+apps/backoffice/app/fragno/runtime-tools/families/forms.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3,73,117
+apps/backoffice/app/backoffice-runtime/authority-roles.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 36,81,85
+apps/backoffice/app/fragno/automation/scenario.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 6-7,31,61-66,78,189,191-192,196,198,206,208,272,275-277,294,301-303,362,444,449,451,881,1067,1069,1071,1074,1077,1079-1080,1082,1085,1087-1121,1123-1128,1130-1143,1145-1201,1207-1211,1213-1224,1410,1685,3366,3382,3385-3386,3388,3398,3404,4214-4228,4233-4236,4389,4470
+apps/backoffice/app/routes/landing/landing-workflow.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 88-89
+apps/backoffice/app/fragno/scoped-public-fragment-routes.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 17-19,22,25
+apps/backoffice/app/fragno/billing/billing.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 14
+apps/backoffice/open-issues/2026_09_29-codemode-worker-websocket-executor.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 91,105-106,116-117,164-166,210-211,259
+packages/project-connector-fragment/src/client/vue.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-9
+apps/backoffice/content/static/codemode/providers/events.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 6
+apps/backoffice/workers/billing.do.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 32
+apps/backoffice/app/routes/backoffice/automations/identity-bindings.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 53-57
+packages/codemode/src/worker/codemode-guest-targets.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 21
+apps/backoffice/app/routes/backoffice/sessions/session-detail/session-thread.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 33-34,36-40,43,61-62,64-68,71,101-134,152-157,199-206,209,224,243-249,283,305,345,352-363,365,368,373-374,377-378,380-386
+apps/backoffice/app/routes/backoffice/sessions/session-detail/pi-session-view-stream.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-129
+apps/backoffice/app/routes/backoffice/sessions/new-session-composer.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 6,13,21,101,160-181
+packages/project-connector-fragment/src/index.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-45
+apps/backoffice/app/fragno/automation/scenario-authority-modes.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 27
+apps/backoffice/app/routes/backoffice/sessions/debug-session-detail.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-6,8-9,30-41,43-45,48-67,69-71,73,78-80,84-85
+apps/backoffice/content/static/codemode/providers/router.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,404-419
+apps/backoffice/app/fragno/project-connector.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-19
+apps/backoffice/app/backoffice-runtime/node/local-runtime.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 6,55,89
+apps/backoffice/app/fragno/runtime-tools/families/api.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 12,389,401,724,736
+apps/backoffice/app/fragno/runtime-tools/families/pi.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4-18,25,32-33,35-41,43-44,46-47,49-52,54-56,58-60,63-68,70-74,76-84,88-89,91-99,101-108,110,112,115,117-118,120,124,127-129,131-137,139-145,148-150,152,158,164,167,169-170,176,179,181-182,189,191,193,196,199,201-202,206,219,221-222,224-228,234,241,244,256,259,261-266,272,274,276,278-279,282,291-292,294-295,297-298,300-303,308,310,317,320,324-436,442,446,449,456-489,494-497,503-504
+  s_2d2e17e7cb2575::t_698fd2f74e5919 3
+apps/backoffice/workers/lib/pi-durable-harness-options.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-51
+packages/project-connector-fragment/src/schema.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-37
+apps/backoffice/app/fragno/runtime-tools/families/sandbox.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5,82,166
+packages/codemode/src/runtime-api.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,82-90
+apps/backoffice/app/files/content/system-automations.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 24
+apps/backoffice/.dev.vars.example
+  s_2d2e17e7cb2575::t_e67b9108c34956 31-35
+apps/backoffice/app/fragno/billing/pi.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4-8,11-35,37-41,44-46,48-62,66-75,79-82
+apps/backoffice/workers/lib/scoped-fragment-durable-object.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5-6,51,67,87
+apps/backoffice/app/fragno/runtime-tools/families/backoffice-capabilities.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 31,438,450,463,475,488,500,746,758
+apps/backoffice/content/static/skills/api-connection/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 3-6,9,11-17
+apps/backoffice/app/fragno/runtime-tools/families/forms.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 124
+apps/backoffice/workers/automations.do.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 279
+apps/backoffice/app/fragno/runtime-tools/bash-host.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 35-36,74
+packages/codemode/src/worker/codemode-dispatcher.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 9,26,75-77,86
+packages/project-connector-fragment/README.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-189
+apps/backoffice/app/routes/backoffice/sessions/session-entries.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-20
+packages/codemode/src/transport/codemode-protocol.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 167-172
+packages/project-connector-fragment/bin/run.js
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-4
+packages/codemode/src/transport/codemode-peer.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 167
+apps/backoffice/app/routes/backoffice/sessions/session-types.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,22-24,26
+apps/backoffice/app/fragno/automation/engine/codemode-workflow.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 19
+packages/codemode/src/transport/codemode-errors.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-35
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/resend.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 120
+apps/backoffice/content/static/codemode/system.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 18,52
+packages/codemode/src/compiler/compiler-service-client.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5-7,24-39
+  s_2d2e17e7cb2575::t_da063fd3475af3 4,40-41
+apps/backoffice/app/routes/backoffice/sessions/create-session-action.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 12,45,50-51,55-59,66,70-75,77
+packages/project-connector-fragment/src/project-connector-contracts.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-121
+apps/backoffice/workers/lib/pi-durable-billing.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-277
+apps/backoffice/app/fragno/automation/engine/runtime.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 152
+apps/backoffice/app/backoffice-runtime/object-registry.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,6,13,20-36,50-51,63-65,77-99
+  s_2d2e17e7cb2575::t_0231b303666b77 100
+apps/backoffice/app/backoffice-runtime/object-registry.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 104-105,134,403-404,477,485,517,526,546-554,790,798
+apps/backoffice/app/fragno/automation/scenario-starter-router.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1153,1156,1158,1189,1310,1313,1315,1319,1722,1734,1740-1741,1857,1861,1863,1865,1965,1968,1970,1974,2081-2082
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/project-connector.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-17
+apps/backoffice/workers/pi.do.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-580
+apps/backoffice/workers/lib/scoped-fragment-durable-object.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 2,11-15,20-21,24-27,35,40-44,49,53-55,57,62,81,92
+apps/backoffice/app/fragno/pi-manager/pi-agent-contract.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-155
+apps/backoffice/app/backoffice-runtime/database-adapters.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 19,22
+apps/backoffice/app/fragno/runtime-tools/reference.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 274-278
+apps/backoffice/app/routes/backoffice/automations/data.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 9,28
+apps/backoffice/wrangler.web.jsonc
+  s_2d2e17e7cb2575::t_e67b9108c34956 84-88,124-128
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/pi.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,3-4,7,9,12
+apps/backoffice/workers/pi.do.cloudflare.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-357
+apps/backoffice/content/static/codemode/providers/api.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,18
+apps/backoffice/app/fragno/runtime-tools/route-backed-runtime-context.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 22-23,62,80
+apps/backoffice/scripts/node-server/node-process-config.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 71-72
+apps/backoffice/app/backoffice-runtime/context-schema.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 23
+apps/backoffice/app/fragno/backoffice-capabilities/backoffice-capabilities.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 57-58
+apps/backoffice/app/routes/backoffice/sessions/session-compaction.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-18
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/upload.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 99
+apps/backoffice/scripts/node-server/node-server-listeners.scenario.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-89
+apps/backoffice/app/routes/backoffice/connections/project-connector-return.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-122
+apps/backoffice/app/fragno/public-fragment-route.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3,28-30,33,36,159,171,174-175,243,250,261,264-267,270-271
+apps/backoffice/content/marketplace/telegram-channel/versions/1.0.0/automations/telegram-user-pi-linking.workflow.js
+  s_2d2e17e7cb2575::t_e67b9108c34956 6,51,55-60,72,74,83,89,118,120-121
+apps/backoffice/app/fragno/runtime-tools/bash-host.test-utils.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 32
+apps/backoffice/app/routes/api/project-connector.scenario.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-422
+apps/backoffice/scripts/node-server/node-server-listeners.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-4,9,21-30,39,78-99,102,104-105,107-130
+apps/backoffice/workers/pi.do.backoffice.scenario.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-608
+apps/backoffice/README.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 14-52,91-104,120-122,140-141
+apps/backoffice/app/fragno/pi-manager/README.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-115
+packages/project-connector-fragment/src/client/solid.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-9
+apps/backoffice/workers/lib/pi-durable-backoffice.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-126
+apps/backoffice/workers/project-connector.do.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-144
+apps/backoffice/app/routes/api/workflows.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 2,4,6,10
+apps/backoffice/app/fragno/pi/exec-code-mode.cloudflare.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3,12,15,29,46,109,111-121,139-160,164-169,200-211,225-261,295-306,308,310-312,315-330,379-389,391,393-395,398-411,425,428-438,460-468,519-531,597-605,615,619,621-629,632-652
+apps/backoffice/workers/automations.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 14-17,79,859-863,868-870
+apps/backoffice/app/routes/backoffice/sessions/session-detail/display-options.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 17-18,53-61
+apps/backoffice/app/routes/api/mcp-route.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 16
+packages/project-connector-fragment/src/client/react.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-9
+apps/backoffice/app/files/contributors/resend.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3,192-193,195-196
+apps/backoffice/app/fragno/automation/automations.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 14,20,275,279,531,621,658
+apps/backoffice/app/routes/backoffice/sessions/session-detail/assistant-runtime.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 2-3,5-30,40,44,47-48,117-225,229,267,292-293,339-342,383-386
+packages/project-connector-fragment/tsconfig.base.json
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-33
+packages/project-connector-fragment/src/routes.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-386
+apps/backoffice/workers/lib/pi-session-store.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-321
+apps/backoffice/app/routes/backoffice/sessions/session-scope.server.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-26
+apps/backoffice/app/fragno/backoffice-capabilities/backoffice-capabilities.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 33,49,197
+packages/project-connector-fragment/src/project-connector-client.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-47
+apps/backoffice/app/fragno/automation/internal-ingest-event.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 120-121,123
+packages/project-connector-fragment/src/definition.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-24
+apps/backoffice/app/fragno/runtime-tools/families/pi.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-3,9-42,44-51,53-56,58-68,70-72,74-76,79-82,84,87-88,92-93,95,99-115,117-119,121-124,126-128,131,134-135,137-139,141-146,148-151,155,158-160
+apps/backoffice/app/fragno/pi/pi-agent-environment.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-67
+apps/backoffice/workers/pi-manager.do.scenario.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-704
+packages-private/vitest-config/src/index.js
+  s_2d2e17e7cb2575::t_e67b9108c34956 6
+apps/backoffice/app/fragno/runtime-tools/families/project-connector.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-424
+apps/backoffice/workers/lib/pi-durable-authorized-models.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-113
+apps/backoffice/app/routes/backoffice/sessions/session-detail/tool-arguments.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1
+apps/backoffice/content/static/codemode/providers/sandbox.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 6
+apps/backoffice/content/static/skills/telegram-integration/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-111
+apps/backoffice/content/static/skills/workflows/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 59,61-64,67-72,75-80,82-83,86-88
+packages/project-connector-fragment/package.json
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-114
+packages/project-connector-fragment/src/project-connector-client.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-312
+apps/backoffice/content/static/skills/open-connector-connection/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-95
+apps/backoffice/app/routes/backoffice/sessions/session-detail/pi-session-view-stream.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-38
+apps/backoffice/app/backoffice-runtime/kernel.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,11-12,73-103
+  s_2d2e17e7cb2575::t_a7f7ce5c59554e 104
+apps/backoffice/content/static/codemode/providers/capabilities.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4
+apps/backoffice/app/routes/backoffice/sessions/data.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 11-16,43-44,48-49,56-59,61-64,66-93,96-105,108-109,112,114-119,121-128,131-133,137-138,143-150,152,155
+apps/backoffice/workers/pi-manager.do.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-150
+apps/backoffice/app/fragno/pi/pi-skills.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4-12,24,48-50,64
+apps/backoffice/workers/mcp.do.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4,44,73
+content/CONTEXT-GRAPH.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 6-7,41-50,57-59,62-63,90,92-95,98-101,105,110,134,143-145,148-162,175,177-179,182,185,187-189,192,205,207-209,212,215,217-219,222,236,260
+packages/project-connector-fragment/src/cli/authorization-browser.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-10
+apps/backoffice/app/fragno/pi/pi-shared.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5-11
+packages/project-connector-fragment/tsdown.config.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-55
+apps/backoffice/app/files/contributors/durable-hooks.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,258-259,261-266
+apps/backoffice/app/fragno/runtime-tools/automation-host.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 6,152-153,155-165,167-168,170-210
+apps/backoffice/app/files/contributors/resend.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 189-207
+apps/backoffice/app/routes/backoffice/sessions/session-workspace.tsx
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-2,7,15,18,20,22,25,29-30,41,43,48-57,60,64,83-84,93,97-98
+apps/backoffice/scripts/node-server/start-node-processes.mjs
+  s_2d2e17e7cb2575::t_e67b9108c34956 2,5,8-12,15-17,25-117,161-162,164,175-184,188,192-193,195-208,211,230,241-251,253,263-277,280-288,315-320,322-325,330,356-357
+apps/backoffice/app/fragno/billing/pi.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 5-18,20-47,50-77,80-81,83-92,94,96-97,99-102,104-120,122-131,133,135-138,140-142,145
+apps/backoffice/app/fragno/scoped-public-fragment-routes.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 12-14,54,121-128
+  s_2d2e17e7cb2575::t_c96129c5bd658f 129-132
+apps/backoffice/app/fragno/pi/pi-tools.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1,5-6,9,15,32,238-252,256-259,263-268,342,348,352,354-355,360-363,367-372,385,418-449,453-456,458,462-467,469,473,478,482,485-486,494-495,501-506,509,513,524,530,536,539-540,547-559,563,565,567,570-571,573-575,577
+apps/backoffice/content/static/codemode/providers/pi.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 3,5,7,9-16,21-23,25-26,28,31,33-38,44,46-48,50-53,56-57,60-74,76-92,95-96,98-100,102-106,108-113
+apps/backoffice/content/static/SYSTEM.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 125,127-132
+apps/backoffice/content/static/terminal/terminal-spec.json
+  s_2d2e17e7cb2575::t_e67b9108c34956 1200,2712-2968,3002,3005,3007-3008,3014,3020,3023,3026,3029,3031-3038,3041-3042,3044-3045,3048-3049,3051-3064,3088-3126,3133,3136-3140,3143-3146,3149-3152,3176-3177,3180-3188,3190-3191,3215-3216,3223,3226,3230-3242,3248-3280
+pnpm-workspace.yaml
+  s_2d2e17e7cb2575::t_e67b9108c34956 26
+apps/backoffice/app/fragno/runtime-tools/tool-context.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 23
+apps/backoffice/workers/pi-durable-scenario.test-support.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-53
+apps/backoffice/content/static/codemode/providers/mcp.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4
+packages/project-connector-fragment/src/routes.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-639
+apps/backoffice/app/fragno/runtime-tools/families/internal.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 19-23,177,190
+apps/backoffice/app/fragno/codemode/workflow-execute.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 81-83,85-86,88-91,93-109,112-147
+apps/backoffice/workers/lib/pi-session-store.cloudflare.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-77
+packages/codemode/src/transport/codemode-node-client.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 82-88
+apps/backoffice/app/fragno/backoffice-capabilities/capabilities/telegram.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 150
+.changeset/project-connector-discovery.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-5
+apps/backoffice/app/fragno/runtime-tools/workflow-catalog.test.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 29-31
+apps/backoffice/wrangler.jsonc
+  s_2d2e17e7cb2575::t_e67b9108c34956 56,72,145-148,177-184,214,222-223
+apps/backoffice/app/backoffice-runtime/local-object-factory.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 2-3,5-6,9-10,12-17,31-35,39-41,84-85,98-101,105,117,311-312,370-403,418,430,440,453,508,623-630,660,671,680,734-741,747-760
+  s_2d2e17e7cb2575::t_ce15265fe54fcb 761-762
+apps/backoffice/scripts/node-server/node-hook-processor.mts
+  s_2d2e17e7cb2575::t_e67b9108c34956 30
+apps/cf-sandbox-bridge/package.json
+  s_2d2e17e7cb2575::t_e67b9108c34956 48
+apps/backoffice/content/static/codemode/providers/connections.d.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 4
+apps/backoffice/workers/lib/pi-durable-billing.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-284
+packages/project-connector-fragment/CHANGELOG.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-9
+apps/backoffice/content/static/skills/resend-integration/SKILL.md
+  s_2d2e17e7cb2575::t_e67b9108c34956 1-49
+apps/backoffice/app/files/contributors/upload.ts
+  s_2d2e17e7cb2575::t_e67b9108c34956 9-13,1804
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a947cc9865bb87513a6b698c6e3eecc4f41a719b",
+  "prompts": {},
+  "sessions": {
+    "s_2d2e17e7cb2575": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f04b839ebffelwnLrX67BR1Lgc",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  }
+}
